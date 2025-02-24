@@ -37,4 +37,4 @@ Predict the value of y for new (x1, x2, x3) values: (1, 1, 1), (2, 0, 4), and (3
 
 ## Author
 - **Liyuan**
-- Course: ECGR 5105 – Machine Learning
+- Course: ECGR 5105 
